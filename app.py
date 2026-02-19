@@ -1,26 +1,58 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import joblib
 
-# --- Load Model ---
+# ----------------------------
+# Load trained model
+# ----------------------------
 model = joblib.load("model.pkl")
 
-# Title
-st.title("Market Price Prediction App")
+st.set_page_config(page_title="Market Price Prediction", layout="centered")
 
-st.write("Welcome! Enter features below to predict market price.")
+st.title("📊 Market Food Price Prediction")
+st.write("Enter market details to predict price per kg (TZS).")
 
-# User Inputs (mfano kama feature1, feature2...)
-feature1 = st.number_input("Feature 1")
-feature2 = st.number_input("Feature 2")
-feature3 = st.number_input("Feature 3")
+# ----------------------------
+# User Inputs
+# ----------------------------
 
-# Button to Predict
-if st.button("PREDICT"):
-    # Prepare data
-    X = np.array([[feature1, feature2, feature3]])
-    
-    prediction = model.predict(X)
-    
-    st.success(f"Predicted Market Price: {prediction[0]:.2f}")
+commodity = st.selectbox(
+    "Commodity",
+    ["Maize", "Rice", "Beans", "Potatoes", "Tomatoes"]
+)
+
+market = st.selectbox(
+    "Market",
+    ["Dodoma", "Arusha", "Mbeya", "Mwanza", "Dar es Salaam"]
+)
+
+month = st.slider("Month", 1, 12, 1)
+
+season = st.selectbox(
+    "Season",
+    ["Harvest", "Mid", "Lean"]
+)
+
+supply_level = st.selectbox(
+    "Supply Level",
+    ["High", "Medium", "Low"]
+)
+
+# ----------------------------
+# Prediction
+# ----------------------------
+
+if st.button("🔮 Predict Price"):
+
+    # Create dataframe same structure as training data
+    input_data = pd.DataFrame({
+        "commodity": [commodity],
+        "market": [market],
+        "month": [month],
+        "season": [season],
+        "supply_level": [supply_level]
+    })
+
+    prediction = model.predict(input_data)
+
+    st.success(f"💰 Predicted Price: {prediction[0]:,.0f} TZS per kg")
