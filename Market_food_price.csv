@@ -1,0 +1,251 @@
+﻿commodity,market,month,season,supply_level,price_per_kg_tzs
+Potatoes,Dodoma,11,Harvest,High,1571.0
+Beans,Arusha,8,Mid,Medium,3342.0
+Beans,Dodoma,2,Harvest,High,3058.0
+Potatoes,Dodoma,1,Harvest,High,1518.0
+Tomatoes,Mbeya,9,Mid,Medium,2163.0
+Potatoes,Mbeya,3,Harvest,High,1271.0
+Potatoes,Dar es Salaam,3,Harvest,High,
+Rice,Mbeya,9,Mid,Low,2666.0
+Rice,Mwanza,9,Mid,Low,2656.0
+Beans,Dar es Salaam,4,,Low,
+Potatoes,Mwanza,6,Lean,Low,1548.0
+Rice,Mwanza,12,Harvest,Medium,2221.0
+Potatoes,Mbeya,9,Mid,Medium,1540.0
+Maize,Mbeya,12,Harvest,High,1364.0
+Maize,Dodoma,1,Harvest,High,1196.0
+Beans,Arusha,1,Harvest,Medium,2931.0
+Beans,Dar es Salaam,11,Harvest,High,2948.0
+Maize,Mbeya,2,Harvest,High,1138.0
+Tomatoes,Arusha,12,Harvest,High,2167.0
+Tomatoes,Arusha,1,Harvest,Medium,2059.0
+Beans,Dar es Salaam,10,Harvest,High,3022.0
+Potatoes,Dodoma,7,Mid,Low,1455.0
+Beans,Dodoma,4,Lean,Low,3034.0
+Potatoes,Mwanza,10,Harvest,Medium,1591.0
+Maize,Dodoma,6,Lean,Low,1052.0
+Beans,Mwanza,7,Mid,Low,2943.0
+Maize,Dar es Salaam,9,Mid,Medium,1065.0
+Beans,Dar es Salaam,5,Lean,Low,2745.0
+Rice,Mbeya,8,Mid,Medium,2468.0
+Maize,Mbeya,1,Harvest,High,1240.0
+Rice,Mbeya,12,Harvest,High,2496.0
+Maize,Dar es Salaam,11,Harvest,High,1033.0
+Rice,Mbeya,6,Lean,Low,2484.0
+Rice,Dodoma,12,Harvest,High,2452.0
+Potatoes,Arusha,8,Mid,Medium,1619.0
+Potatoes,Mwanza,6,Lean,Low,1364.0
+Maize,Dar es Salaam,12,Harvest,Medium,1393.0
+Potatoes,Arusha,4,Lean,Low,1512.0
+Beans,Arusha,4,Lean,Low,2734.0
+Rice,Dar es Salaam,11,Harvest,High,2595.0
+Maize,Mwanza,7,Mid,Medium,1387.0
+Rice,Dar es Salaam,4,Lean,Low,2579.0
+Rice,Dar es Salaam,12,Harvest,High,2700.0
+Maize,Arusha,3,Harvest,Medium,1215.0
+Beans,Mbeya,8,Mid,Low,3230.0
+Maize,Mbeya,6,Lean,Low,1177.0
+Beans,Dar es Salaam,3,Harvest,High,2964.0
+Tomatoes,Dar es Salaam,4,Lean,Medium,1613.0
+Maize,Dodoma,4,Lean,Medium,1334.0
+Maize,Mbeya,11,Harvest,High,1127.0
+Tomatoes,Arusha,6,Lean,Low,1972.0
+Maize,Mbeya,1,Harvest,High,1287.0
+Tomatoes,Arusha,4,Lean,Low,2008.0
+Potatoes,Dodoma,5,Lean,Medium,1479.0
+Potatoes,Dar es Salaam,5,Lean,Medium,1481.0
+Beans,Mbeya,1,Harvest,High,3185.0
+Tomatoes,Dodoma,7,Mid,Medium,1978.0
+Rice,Mwanza,3,Harvest,High,2150.0
+Rice,Mwanza,11,Harvest,Medium,2295.0
+Maize,Arusha,6,Lean,Low,1082.0
+Tomatoes,Mwanza,7,Mid,Low,
+Potatoes,Mwanza,7,Mid,Medium,1423.0
+Tomatoes,Mbeya,1,Harvest,High,1967.0
+Beans,Mbeya,2,Harvest,High,2828.0
+Beans,Dar es Salaam,10,Harvest,High,2553.0
+Maize,Mbeya,10,Harvest,Medium,1236.0
+Beans,Mbeya,5,Lean,Low,3390.0
+Tomatoes,Mbeya,6,Lean,Low,2026.0
+Potatoes,Arusha,7,,Medium,1484.0
+Rice,Mwanza,5,Lean,Low,2403.0
+Maize,Mbeya,5,Lean,Low,1045.0
+Maize,Dodoma,5,Lean,Low,1166.0
+Tomatoes,Dodoma,6,,Low,1763.0
+Tomatoes,Mbeya,5,Lean,Low,2046.0
+Potatoes,Dodoma,12,Harvest,High,1418.0
+Tomatoes,Mwanza,10,Harvest,Medium,2219.0
+Potatoes,Mwanza,4,Lean,Low,1716.0
+Maize,Dodoma,4,Lean,Low,1056.0
+Rice,Dar es Salaam,12,Harvest,High,2629.0
+Rice,Arusha,12,,High,2525.0
+Tomatoes,Arusha,11,Harvest,Medium,1970.0
+Rice,Arusha,12,Harvest,High,2618.0
+Potatoes,Mwanza,3,Harvest,High,1268.0
+Tomatoes,Mwanza,10,Harvest,High,2223.0
+Rice,Arusha,9,Mid,Medium,2890.0
+Beans,Dodoma,8,Mid,Low,2990.0
+Tomatoes,Dodoma,9,Mid,Medium,1557.0
+Beans,Dar es Salaam,3,Harvest,High,3347.0
+Rice,Dar es Salaam,7,Mid,Medium,2709.0
+Potatoes,Dar es Salaam,7,Mid,Low,1534.0
+Maize,Arusha,9,Mid,Medium,1263.0
+Maize,Dodoma,11,Harvest,High,975.0
+Potatoes,Mbeya,9,Mid,Low,1438.0
+Potatoes,Arusha,10,Harvest,High,1648.0
+Tomatoes,Dodoma,3,Harvest,High,2225.0
+Tomatoes,Dar es Salaam,7,Mid,Medium,2429.0
+Rice,Mwanza,7,Mid,Low,2565.0
+Potatoes,Dar es Salaam,10,Harvest,Medium,
+Maize,Dodoma,6,Lean,Low,1224.0
+Rice,Arusha,10,Harvest,High,2399.0
+Tomatoes,Dodoma,6,Lean,Medium,2231.0
+Maize,Dodoma,4,Lean,Low,1152.0
+Potatoes,Arusha,12,Harvest,Medium,1194.0
+Beans,Dodoma,2,Harvest,High,3393.0
+Rice,Mbeya,12,Harvest,Medium,
+Beans,Dodoma,12,Harvest,Medium,3134.0
+Potatoes,Dar es Salaam,9,Mid,Low,1449.0
+Potatoes,Dodoma,5,Lean,Low,1569.0
+Tomatoes,Arusha,12,Harvest,Medium,2020.0
+Rice,Dar es Salaam,1,Harvest,High,2345.0
+Maize,Dodoma,6,Lean,Low,1287.0
+Potatoes,Mwanza,8,Mid,Medium,1528.0
+Potatoes,Dodoma,8,Mid,Medium,
+Potatoes,Mwanza,12,Harvest,High,1344.0
+Maize,Mbeya,11,Harvest,High,1234.0
+Potatoes,Dodoma,12,Harvest,High,1781.0
+Tomatoes,Arusha,6,Lean,Medium,1736.0
+Rice,Arusha,5,Lean,Low,2866.0
+Maize,Dar es Salaam,2,Harvest,Medium,1029.0
+Beans,Dar es Salaam,1,Harvest,High,3338.0
+Beans,Dar es Salaam,5,,Medium,3001.0
+Tomatoes,Mwanza,10,Harvest,High,2009.0
+Tomatoes,Dar es Salaam,1,Harvest,High,2024.0
+Maize,Mwanza,12,Harvest,High,1251.0
+Rice,Mwanza,2,Harvest,High,2755.0
+Maize,Mbeya,5,Lean,Low,1191.0
+Beans,Dar es Salaam,1,Harvest,Medium,3161.0
+Beans,Mbeya,2,Harvest,High,3342.0
+Rice,Mwanza,11,Harvest,High,2550.0
+Maize,Mbeya,7,Mid,Medium,1155.0
+Maize,Dodoma,4,Lean,Medium,1321.0
+Potatoes,Dodoma,2,Harvest,High,1478.0
+Rice,Dodoma,11,Harvest,High,2136.0
+Beans,Mbeya,8,Mid,Low,3229.0
+Maize,Arusha,3,Harvest,High,1247.0
+Beans,Arusha,5,Lean,Low,3004.0
+Potatoes,Mwanza,6,Lean,Low,1285.0
+Rice,Dodoma,11,,High,2462.0
+Maize,Dar es Salaam,6,Lean,Medium,1285.0
+Tomatoes,Mbeya,8,Mid,Medium,1876.0
+Rice,Mbeya,7,Mid,Medium,2856.0
+Beans,Arusha,7,Mid,Low,3063.0
+Beans,Mbeya,2,Harvest,High,
+Maize,Dodoma,12,Harvest,High,954.0
+Maize,Dar es Salaam,7,Mid,Medium,1208.0
+Tomatoes,Mbeya,9,Mid,Low,1825.0
+Beans,Dar es Salaam,2,Harvest,High,3019.0
+Maize,Mbeya,3,Harvest,High,1114.0
+Tomatoes,Mbeya,10,Harvest,High,1717.0
+Tomatoes,Dar es Salaam,1,Harvest,High,2119.0
+Tomatoes,Mbeya,11,Harvest,Medium,2035.0
+Maize,Arusha,9,Mid,Low,1291.0
+Beans,Mwanza,3,Harvest,Medium,2892.0
+Potatoes,Arusha,4,Lean,Low,1574.0
+Maize,Mbeya,1,,High,1048.0
+Beans,Mbeya,11,Harvest,High,3199.0
+Rice,Mwanza,5,Lean,Low,2701.0
+Tomatoes,Dar es Salaam,1,Harvest,High,1885.0
+Beans,Dar es Salaam,5,Lean,Medium,3093.0
+Potatoes,Arusha,3,Harvest,Medium,1409.0
+Potatoes,Dodoma,8,Mid,Low,1580.0
+Beans,Dodoma,5,Lean,Medium,3174.0
+Beans,Mwanza,4,Lean,Low,3205.0
+Beans,Dodoma,6,Lean,Low,2573.0
+Maize,Dar es Salaam,1,Harvest,High,1176.0
+Beans,Arusha,6,Lean,Medium,3206.0
+Beans,Mwanza,4,Lean,Low,3127.0
+Beans,Mbeya,6,Lean,Medium,3312.0
+Tomatoes,Dodoma,11,Harvest,Medium,2302.0
+Maize,Dodoma,4,Lean,Low,1240.0
+Potatoes,Dodoma,8,Mid,Low,1436.0
+Rice,Arusha,3,Harvest,High,2389.0
+Potatoes,Mwanza,11,Harvest,Medium,1677.0
+Rice,Arusha,12,Harvest,Medium,2572.0
+Rice,Dar es Salaam,1,Harvest,High,2522.0
+Tomatoes,Mwanza,1,Harvest,High,2145.0
+Rice,Dar es Salaam,6,Lean,Low,2434.0
+Potatoes,Dar es Salaam,1,Harvest,Medium,1429.0
+Beans,Dodoma,9,Mid,Low,2801.0
+Rice,Dar es Salaam,3,Harvest,High,2632.0
+Maize,Mwanza,11,,High,1193.0
+Beans,Dar es Salaam,11,Harvest,High,
+Beans,Arusha,6,Lean,Low,2998.0
+Maize,Dar es Salaam,11,Harvest,High,1068.0
+Potatoes,Mwanza,5,Lean,Low,
+Potatoes,Mbeya,8,Mid,Medium,1502.0
+Maize,Dodoma,7,Mid,Medium,1335.0
+Tomatoes,Dar es Salaam,8,,Medium,1934.0
+Maize,Arusha,2,Harvest,High,935.0
+Beans,Mbeya,1,Harvest,High,3273.0
+Beans,Mwanza,10,Harvest,Medium,3016.0
+Potatoes,Mwanza,7,Mid,Low,1643.0
+Maize,Dar es Salaam,7,Mid,Medium,1123.0
+Maize,Dodoma,3,Harvest,Medium,1138.0
+Potatoes,Mwanza,3,Harvest,Medium,1622.0
+Beans,Mbeya,4,Lean,Low,2765.0
+Tomatoes,Mwanza,7,Mid,Low,2273.0
+Tomatoes,Arusha,4,Lean,Low,
+Rice,Mwanza,1,Harvest,High,2395.0
+Rice,Arusha,7,Mid,Medium,2710.0
+Potatoes,Dodoma,5,Lean,Low,
+Potatoes,Arusha,4,Lean,Medium,1175.0
+Potatoes,Dar es Salaam,10,Harvest,High,1543.0
+Maize,Mwanza,3,,High,1204.0
+Maize,Mwanza,9,Mid,Low,1138.0
+Potatoes,Mwanza,10,,Medium,1437.0
+Rice,Dodoma,11,Harvest,Medium,2524.0
+Maize,Mwanza,1,Harvest,High,1331.0
+Rice,Mbeya,7,Mid,Low,2320.0
+Rice,Mbeya,9,Mid,Medium,2318.0
+Rice,Dodoma,1,Harvest,High,2132.0
+Rice,Mbeya,6,Lean,Medium,2244.0
+Beans,Dodoma,4,Lean,Medium,2944.0
+Beans,Arusha,6,Lean,Low,3302.0
+Tomatoes,Dar es Salaam,10,Harvest,High,1885.0
+Tomatoes,Arusha,2,Harvest,High,2024.0
+Rice,Dodoma,9,Mid,Medium,
+Beans,Mwanza,9,Mid,Medium,2916.0
+Beans,Mwanza,5,Lean,Medium,3246.0
+Maize,Mwanza,9,Mid,Medium,1141.0
+Potatoes,Arusha,8,Mid,Low,1693.0
+Maize,Mwanza,9,Mid,Low,1269.0
+Beans,Mwanza,9,Mid,Medium,3107.0
+Tomatoes,Mwanza,7,Mid,Medium,2042.0
+Tomatoes,Dar es Salaam,3,Harvest,Medium,1992.0
+Beans,Mwanza,11,Harvest,Medium,3170.0
+Maize,Arusha,12,Harvest,Medium,1096.0
+Potatoes,Dar es Salaam,4,Lean,Medium,1692.0
+Maize,Dodoma,2,Harvest,Medium,935.0
+Rice,Arusha,10,Harvest,Medium,2646.0
+Beans,Dodoma,2,Harvest,High,2871.0
+Maize,Mbeya,9,Mid,Low,1341.0
+Maize,Mbeya,5,Lean,Medium,1014.0
+Rice,Dodoma,9,Mid,Medium,2440.0
+Tomatoes,Dar es Salaam,1,Harvest,Medium,1809.0
+Tomatoes,Dodoma,5,Lean,Low,1945.0
+Beans,Dodoma,2,Harvest,High,3292.0
+Rice,Arusha,2,Harvest,High,2824.0
+Maize,Dar es Salaam,10,Harvest,High,1136.0
+Maize,Dar es Salaam,3,Harvest,High,1319.0
+Maize,Dodoma,11,Harvest,High,1342.0
+Beans,Arusha,6,,Low,2857.0
+Tomatoes,Dar es Salaam,9,Mid,Medium,1551.0
+Tomatoes,Dar es Salaam,3,Harvest,Medium,1824.0
+Potatoes,Mwanza,9,Mid,Low,1576.0
+Rice,Mbeya,6,Lean,Low,2460.0
+Tomatoes,Mwanza,2,Harvest,Medium,1896.0
+Tomatoes,Dodoma,3,Harvest,Medium,2045.0
+Rice,Arusha,1,Harvest,High,2548.0
+Maize,Arusha,11,Harvest,High,1231.0
