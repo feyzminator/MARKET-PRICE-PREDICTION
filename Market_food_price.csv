@@ -1,4 +1,4 @@
-﻿commodity,market,month,season,supply_level,price_per_kg_tzs
+﻿commodity,market,months,season,supply_level,price_per_kg_tzs
 Potatoes,Dodoma,11,Harvest,High,1571.0
 Beans,Arusha,8,Mid,Medium,3342.0
 Beans,Dodoma,2,Harvest,High,3058.0
